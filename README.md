@@ -1,6 +1,6 @@
 # Proyecto Final: Implementación de un Algoritmo para Encontrar la Ruta Óptima en un Laberinto
 
-## Universidad Politécnica Salesiana Ecuador
+## Universidad Politécnica Salesiana 
 
 ### Carrera: Computación
 ### Asignatura: Estructura de Datos - Segundo Interciclo
@@ -39,7 +39,7 @@ La solución propuesta incluye la implementación de cuatro métodos para la bú
 ### Herramientas y Lenguajes Utilizados
 
 - **Lenguaje de Programación**: Java
-- **Entorno de Desarrollo**: Eclipse/IntelliJ IDEA
+- **Entorno de Desarrollo**: Visual Stufio Code
 - **Librerías**: Java Swing para la interfaz gráfica
 
 ## 4. Implementación del Algoritmo
@@ -159,28 +159,21 @@ private void buscarDFS() {
     }).start();
 }
 
-### Recomendaciones
-
-- Implementar más algoritmos de búsqueda y optimización para comparar sus eficiencias.
-- Ampliar la interfaz de usuario para permitir configuraciones más avanzadas del laberinto.
-- Realizar pruebas con laberintos de diferentes tamaños y configuraciones para analizar el rendimiento de los algoritmos.
 
 ## 7. Capturas de Pantalla
 
 ### Interfaz de Usuario
-![Interfaz de Usuario](ruta/a/la/imagen_interfaz.png)
+![Interfaz de Usuario](C:\Users\gabri\Desktop\carpetas0_0\ciclo 3\estructura\ProyectoFinal\WhatsApp Image 2025-02-19 at 1.20.21 PM.jpeg)
 
 ### Resultado de la Búsqueda con BFS
-![Resultado BFS](ruta/a/la/imagen_bfs.png)
+![Resultado BFS](WhatsApp Image 2025-02-19 at 1.21.42 PM.jpeg)
 
 ### Resultado de la Búsqueda con DFS
-![Resultado DFS](ruta/a/la/imagen_dfs.png)
+![Resultado DFS](WhatsApp Image 2025-02-19 at 1.22.39 PM.jpeg)
 
 ### Resultado de la Búsqueda Recursiva Simple
-![Resultado Recursivo Simple](ruta/a/la/imagen_recursivo.png)
+![Resultado Recursivo Simple](C:\Users\gabri\Desktop\carpetas0_0\ciclo 3\estructura\ProyectoFinal\WhatsApp Image 2025-02-19 at 1.23.08 PM.jpeg)
 
-### Resultado de la Búsqueda con Programación Dinámica
-![Resultado Programación Dinámica](ruta/a/la/imagen_dinamico.png)
 
 ---
 
