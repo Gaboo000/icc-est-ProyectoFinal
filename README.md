@@ -163,7 +163,7 @@ private void buscarDFS() {
 ## 7. Capturas de Pantalla
 
 ### Interfaz de Usuario
-![Interfaz de Usuario](C:\Users\gabri\Desktop\carpetas0_0\ciclo 3\estructura\ProyectoFinal\WhatsApp Image 2025-02-19 at 1.20.21 PM.jpeg)
+![Interfaz de Usuario](C:\Users\gabri\Desktop\carpetas0_0\ciclo 3\estructura\ProyectoFinal\WhatsApp Image 2025-02-19 at 1.23.08 PM.jpeg)
 
 ### Resultado de la Búsqueda con BFS
 ![Resultado BFS](WhatsApp Image 2025-02-19 at 1.21.42 PM.jpeg)
